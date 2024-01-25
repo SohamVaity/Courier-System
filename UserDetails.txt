@@ -7,6 +7,3 @@ Password: 2
 Username: Pratik
 Password: hetvi
 
-Username: Aleasha
-Password: Soham
-
